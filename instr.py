@@ -1,6 +1,6 @@
 # write a code for saving text instructions for the app
-txt_workheart = "Your Heart Rate"
-txt_index = "Index Result"
+txt_workheart = "Your Heart Rate: "
+txt_index = "Index Result: "
 
 txt_finalwin = "Final Result"
 txt_title = "Health Test"
