@@ -42,7 +42,7 @@ class TestWin(QWidget):
         self.text_test2 = QLabel(txt_test2)
         self.text_test3 = QLabel(txt_test3)
         self.text_timer = QLabel(txt_timer)
-        self.text_timer.setFont(QFont("Times", 36, QFont.Bold))
+        self.text_timer.setFont(QFont('Times', 36, QFont.Bold))
 
         self.line_name = QLineEdit(txt_hintname)
         self.line_age = QLineEdit(txt_hintage)

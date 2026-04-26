@@ -27,7 +27,7 @@ txt_hinttest1 = "Result 1"
 txt_hinttest2 = "Result 2"
 txt_hinttest3 = "Result 3"
 
-txt_res1 = "Excellent"
+txt_res1 = 'Excellent'
 txt_res2 = "Good"
 txt_res3 = "Average"
 txt_res4 = "Below Average"

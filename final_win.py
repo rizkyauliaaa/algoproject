@@ -14,7 +14,7 @@ class FinalWin(QWidget):
     def results(self):
         if self.exp.age < 7:
             self.index = 0
-            return "there is no data for this age"
+            return 'there is no data for this age'
 
         self.index = (4 * (int(self.exp.t1) + int(self.exp.t2) + int(self.exp.t3)) - 200) / 10
 
